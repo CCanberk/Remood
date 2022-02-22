@@ -1,0 +1,21 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "properties": {
+          "Cafe İsmi": "Parodia Cafe",
+          "Internet Hızı": "10 Mbps",
+          "marker-color": "#50C240",
+          "marker-symbol": "cafe"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            41.048070,
+            29.002150
+          ]
+        }
+      }
+    ]
+  }
